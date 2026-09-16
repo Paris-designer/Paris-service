@@ -1,0 +1,99 @@
+  <h2>Paris servis</h2>
+
+  <div class="links">
+    <a href="#home">Home</a>
+    <a href="#services">Services</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</nav><h2>Paris Digital</h2>
+  
+
+  <div class="links">
+    <a href="#home">Home</a>
+    <a href="#services">Services</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</nav>
+
+<section id="home" class="hero">
+
+  <div class="hero-text">
+    <h1>We Build Websites That Grow Businesses</h1>
+
+    <p>
+      Professional websites for businesses, entrepreneurs and individuals.
+    </p>
+
+    <a class="whatsapp" href="https://wa.me/234XXXXXXXXXX">
+      Chat With Us on WhatsApp
+    </a>
+  </div>
+
+  <img 
+    src="https://images.unsplash.com/photo-1497366754035-f200968a6e72"
+    alt="Modern business office"
+  >
+
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+
+  <div class="services">
+    <div class="card">
+      <h3>Website Design</h3>
+      <p>Professional websites for businesses and individuals.</p>
+    </div>
+
+    <div class="card">
+      <h3>Digital Marketing</h3>
+      <p>Helping businesses reach more customers online.</p>
+    </div>
+
+    <div class="card">
+      <h3>Business Support</h3>
+      <p>Simple digital solutions to help your business grow.</p>
+    </div>
+  </div>
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>We help businesses establish a strong presence online.</p>
+</section>
+
+<section id="contact">
+
+  <h2>Contact Us</h2>
+
+  <p>Ready to work with us? Let's talk about your project.</p>
+
+  <div class="contact-info">
+
+    <p>📞 Phone: +234 810 015 72210</p>
+
+    <p>📧 Email: pcparis6email.com</p>
+
+    <a class="whatsapp" href="https://wa.me/2348101572210">
+      Message Us on WhatsApp
+    </a>
+
+  </div>
+
+</section>
+  <h2>Contact Us</h2>
+  <p>Ready to work with us?</p>
+  <a class="whatsapp" href="https://wa.me/2348101572210">
+  Chat With Us on WhatsApp
+</a>
+</section><footer>
+
+  <h3>PARIS SERVICE</h3>
+
+  <p>Building better businesses online.</p>
+
+  <p>© 2026 PARIS SERVICE. All rights reserved.</p>
+
+</footer>
